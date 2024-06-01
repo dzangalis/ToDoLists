@@ -1,0 +1,17 @@
+{
+  "name": "dzangalis/to-do",
+  "autoload": {
+    "psr-4": {
+      "DoTo\\": "DoTo/"
+    }
+  },
+  "authors": [
+    {
+      "name": "dzangalis",
+      "email": "dzangalis@gmail.com"
+    }
+  ],
+  "require": {
+    "symfony/console": "^5.4"
+  }
+}
